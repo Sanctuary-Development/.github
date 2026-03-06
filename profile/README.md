@@ -48,10 +48,7 @@ please contact the **Sanctuary Technology Development Team** through internal ch
 
 ---
 
-### *(Optional)* Add a Banner or Logo
-If you later want to include a banner, add something like:
-
 ```markdown
 <p align="center">
-  <img src="PATH-TO-YOUR-IMAGE" alt="Sanctuary Group">
+  <img src="https://www.sanctuary.co.uk/sites/default/files/styles/news_image/public/2025-07/news-placeholder-image-sanctuary-teal-shadow.jpg?itok=is6413wV" alt="Sanctuary Group">
 </p>
