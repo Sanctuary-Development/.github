@@ -48,7 +48,3 @@ please contact the **Sanctuary Technology Development Team** through internal ch
 
 ---
 
-```markdown
-<p align="center">
-  <img src="https://www.sanctuary.co.uk/sites/default/files/styles/news_image/public/2025-07/news-placeholder-image-sanctuary-teal-shadow.jpg?itok=is6413wV" alt="Sanctuary Group">
-</p>
