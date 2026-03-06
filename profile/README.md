@@ -4,13 +4,13 @@
 
 ---
 
-## 📘 About Us
+## About Us
 Sanctuary‑Development is the home of software engineering excellence for **Sanctuary Group (UK)**.  
 This organisation provides a central, secure environment where our engineering teams collaborate, build reusable components, and support the technology needs across the Group.
 
 ---
 
-## 💡 What We Do
+## What We Do
 - Develop and maintain software solutions that enable Sanctuary’s operational, strategic, and digital objectives.
 - Create and manage shared libraries, tools, templates, and engineering standards.
 - Advance our technology ecosystem through modern development practices, automation, DevOps, and cloud platforms.
@@ -18,7 +18,7 @@ This organisation provides a central, secure environment where our engineering t
 
 ---
 
-## 🔒 Security & Privacy
+## Security & Privacy
 The repositories within this organisation contain **internal, private, or access‑restricted codebases**.  
 We do **not** publish sensitive or operational information publicly.
 
@@ -31,7 +31,7 @@ Users must follow Sanctuary Group’s security standards and engineering guideli
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are limited to authorised Sanctuary Group engineers and approved partners.
 
 By participating in this organisation, you agree to:
@@ -42,7 +42,7 @@ By participating in this organisation, you agree to:
 
 ---
 
-## 📬 Contact
+## Contact
 For access requests, technical queries, or collaboration opportunities,  
 please contact the **Sanctuary Technology Development Team** through internal channels.
 
